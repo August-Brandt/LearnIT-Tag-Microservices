@@ -1,219 +1,291 @@
-<div style="background:#0f0f16;color:#d0d0d8;font-family:'Courier New',Courier,monospace;">
-
-  <!-- HERO -->
-  <div style="padding:2.5rem 2rem 2rem;border-bottom:1px solid #1c1c2e;">
-
-    <span style="border:1px solid;color:#ffb347;font-size:10px;letter-spacing:0.18em;text-transform:uppercase;padding:3px 10px;margin-bottom:1rem;display:inline-block;">
-      Co-op Chaos
-    </span>
-
-    <h2 style="font-size:2.3rem;font-weight:900;color:#fff;line-height:1.05;margin:0 0 0.3rem;">
-      Castle <span style="color:#ffcc33;">Crashers</span>
-    </h2>
-
-    <p style="font-size:11px;color:#444;letter-spacing:0.1em;margin:0 0 1.2rem;">
-      Knights · Magic · Absolute destruction
-    </p>
-
-    <p style="font-size:14px;color:#aaa;line-height:1.75;margin:0;max-width:560px;">
-      A legendary side-scrolling beat-em-up where knights battle through hordes
-      of enemies, rescue princesses, and accidentally launch each other across
-      the screen in complete medieval chaos.
-    </p>
-
-  </div>
-
-  <!-- IMAGE -->
-  <div style="max-width:500px;margin-left:auto;margin-right:auto;">
-    <img
-      class="img-fluid"
-      src="https://media.tenor.com/XR4j3C8K7i8AAAAC/castle-crashers.gif"
-      alt="Castle Crashers Gameplay">
-  </div>
-
-  <!-- MAIN GRID -->
-  <div style="border-bottom:1px solid #1c1c2e;">
-
-    <!-- CARD -->
-    <div style="padding:1.5rem 1.75rem;border-bottom:1px solid #1c1c2e;">
-
-      <p style="font-size:9px;letter-spacing:0.22em;text-transform:uppercase;color:#333;margin:0 0 0.5rem;">
-        The Premise
-      </p>
-
-      <p style="font-size:13px;font-weight:bold;color:#eee;margin:0 0 0.6rem;">
-        Save the kingdom. Probably.
-      </p>
-
-      <p style="font-size:12px;color:#666;line-height:1.85;margin:0;">
-        Evil forces have stolen a magical crystal and kidnapped princesses.
-        Fight through castles, forests, caves, and ridiculous enemies to bring
-        peace back to the kingdom.
-      </p>
-
+<div
+  style="margin: 0; padding: 0; background-color: #0d0d1a; min-height: 100vh; font-family: Arial, sans-serif;"
+  data-darkreader-inline-bgcolor="">
+  <div
+    style="max-width: 850px; width: 100%; margin: 20px; background: #1a1025; border: 6px solid #c49a2c; padding: 0;"
+    data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage=""
+    data-darkreader-inline-border-top="" data-darkreader-inline-border-right=""
+    data-darkreader-inline-border-bottom=""
+    data-darkreader-inline-border-left="">
+    <div
+      style="text-align: center; padding: 18px 10px 0 10px; background: rgba(196,154,44,0.25);"
+      data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage=""><span
+        style="font-size: 28px; letter-spacing: 6px; color: #f4c542;"
+        data-darkreader-inline-color="">⚔️ 🏰 ⚔️</span></div>
+    <div
+      style="background: transparent; padding: 8px 0; border-top: 2px solid rgba(196,154,44,0.4); border-bottom: 2px solid rgba(196,154,44,0.4);"
+      data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage=""
+      data-darkreader-inline-border-top=""
+      data-darkreader-inline-border-bottom="">★ ⭐ 🌟 💫 ✨ ⚡ 🔥 ❄️ ☠️ 💀 👑 🛡️
+      🗡️ 🏆 ★ ⭐ 🌟 💫 ✨ ⚡ 🔥 ❄️ ☠️ 💀 👑 🛡️ 🗡️ 🏆 ★ ⭐ 🌟 💫 ✨ ⚡ 🔥 ❄️ ☠️ 💀
+      👑 🛡️ 🗡️ 🏆 ★ ⭐</div>
+    <div style="text-align: center; padding: 30px 20px 15px 20px;">
+      <p style="margin: 0 0 5px 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 18px; letter-spacing: 5px; color: #c49a2c; text-transform: uppercase;"
+        data-darkreader-inline-color="">The Behemoth Presents</p>
+      <h1
+        style="margin: 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 62px; font-weight: 900; letter-spacing: 3px; line-height: 1.05; color: #ffd740;"
+        data-darkreader-inline-color="">CASTLE<br>CRASHERS</h1>
+      <p style="margin: 8px 0 0 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 20px; letter-spacing: 4px; color: #e8c84a; text-transform: uppercase;"
+        data-darkreader-inline-color="">⚔️ The Greatest Beat-'Em-Up Ever Forged
+        ⚔️</p>
     </div>
-
-    <!-- CARD -->
-    <div style="padding:1.5rem 1.75rem;border-bottom:1px solid #1c1c2e;">
-
-      <p style="font-size:9px;letter-spacing:0.22em;text-transform:uppercase;color:#333;margin:0 0 0.5rem;">
-        Combat System
-      </p>
-
-      <p style="font-size:13px;font-weight:bold;color:#eee;margin:0 0 0.6rem;">
-        Button mashing ascends to art.
-      </p>
-
-      <p style="font-size:12px;color:#666;line-height:1.85;margin:0;">
-        Combine melee attacks, magic, bows, and air combos to juggle enemies
-        into oblivion. Every knight has unique elemental abilities that turn
-        battles into pure visual chaos.
-      </p>
-
+    <div style="text-align: center; padding: 8px 0;"> </div>
+    <div style="text-align: center; padding: 20px 15px;">
+      <h2
+        style="margin: 0 0 20px 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 28px; color: #ffd740; letter-spacing: 3px; text-transform: uppercase;"
+        data-darkreader-inline-color="">🎮 Choose Your Knight 🎮</h2>
+      <table
+        style="width: 100%; border-collapse: separate; border-spacing: 10px; margin: 0 auto;">
+        <tbody>
+          <tr>
+            <td
+              style="width: 25%; background: #2a1015; border: 4px solid #e63946; padding: 18px 10px; text-align: center; vertical-align: top;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left="">
+              <div style="font-size: 48px; margin-bottom: 6px;">⚡</div>
+              <p style="margin: 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 20px; color: #ff5555; letter-spacing: 2px;"
+                data-darkreader-inline-color="">RED KNIGHT</p>
+              <p style="margin: 4px 0 0 0; font-family: Arial, sans-serif; font-size: 12px; color: #ff9999;"
+                data-darkreader-inline-color="">Lightning Magic</p>
+              <p style="margin: 8px 0 0 0; font-size: 11px; color: #ccc; font-family: Arial, sans-serif; line-height: 1.4;"
+                data-darkreader-inline-color="">⚡ Shock enemies<br>⚡ Chain
+                lightning<br>⚡ Electrifying combos</p>
+            </td>
+            <td
+              style="width: 25%; background: #0f1a2a; border: 4px solid #4da6e8; padding: 18px 10px; text-align: center; vertical-align: top;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left="">
+              <div style="font-size: 48px; margin-bottom: 6px;">❄️</div>
+              <p style="margin: 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 20px; color: #66bbff; letter-spacing: 2px;"
+                data-darkreader-inline-color="">BLUE KNIGHT</p>
+              <p style="margin: 4px 0 0 0; font-family: Arial, sans-serif; font-size: 12px; color: #99ccff;"
+                data-darkreader-inline-color="">Ice Magic</p>
+              <p style="margin: 8px 0 0 0; font-size: 11px; color: #ccc; font-family: Arial, sans-serif; line-height: 1.4;"
+                data-darkreader-inline-color="">❄️ Freeze foes solid<br>❄️ Ice
+                shard barrage<br>❄️ Chill the battlefield</p>
+            </td>
+            <td
+              style="width: 25%; background: #0f1f12; border: 4px solid #4caf50; padding: 18px 10px; text-align: center; vertical-align: top;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left="">
+              <div style="font-size: 48px; margin-bottom: 6px;">☠️</div>
+              <p style="margin: 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 20px; color: #55ee55; letter-spacing: 2px;"
+                data-darkreader-inline-color="">GREEN KNIGHT</p>
+              <p style="margin: 4px 0 0 0; font-family: Arial, sans-serif; font-size: 12px; color: #99ff99;"
+                data-darkreader-inline-color="">Poison Magic</p>
+              <p style="margin: 8px 0 0 0; font-size: 11px; color: #ccc; font-family: Arial, sans-serif; line-height: 1.4;"
+                data-darkreader-inline-color="">☠️ Toxic clouds<br>☠️ Damage
+                over time<br>☠️ Venomous strikes</p>
+            </td>
+            <td
+              style="width: 25%; background: #2a1a0a; border: 4px solid #ff8c3d; padding: 18px 10px; text-align: center; vertical-align: top;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left="">
+              <div style="font-size: 48px; margin-bottom: 6px;">🔥</div>
+              <p style="margin: 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 20px; color: #ff9944; letter-spacing: 2px;"
+                data-darkreader-inline-color="">ORANGE KNIGHT</p>
+              <p style="margin: 4px 0 0 0; font-family: Arial, sans-serif; font-size: 12px; color: #ffbb88;"
+                data-darkreader-inline-color="">Fire Magic</p>
+              <p style="margin: 8px 0 0 0; font-size: 11px; color: #ccc; font-family: Arial, sans-serif; line-height: 1.4;"
+                data-darkreader-inline-color="">🔥 Inferno blasts<br>🔥 Scorched
+                earth<br>🔥 Maximum carnage</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
-
-    <!-- CARD -->
-    <div style="padding:1.5rem 1.75rem;border-bottom:1px solid #1c1c2e;">
-
-      <p style="font-size:9px;letter-spacing:0.22em;text-transform:uppercase;color:#333;margin:0 0 0.5rem;">
-        How to Play
-      </p>
-
-      <p style="font-size:13px;font-weight:bold;color:#eee;margin:0 0 0.6rem;">
-        Fight first. Ask questions never.
-      </p>
-
-      <ul style="list-style:none;padding:0;margin:0;">
-
-        <li style="font-size:12px;color:#666;padding-left:14px;line-height:1.65;">
-          <span style="color:#ffcc33;">›</span>
-          Attack enemies and survive each level
-        </li>
-
-        <li style="font-size:12px;color:#666;padding-left:14px;line-height:1.65;">
-          <span style="color:#ffcc33;">›</span>
-          Level up stats like strength, defense, and magic
-        </li>
-
-        <li style="font-size:12px;color:#666;padding-left:14px;line-height:1.65;">
-          <span style="color:#ffcc33;">›</span>
-          Unlock weapons, pets, and new characters
-        </li>
-
-        <li style="font-size:12px;color:#666;padding-left:14px;line-height:1.65;">
-          <span style="color:#ffcc33;">›</span>
-          Compete with friends for princess approval
-        </li>
-
-      </ul>
-
+    <div style="text-align: center; padding: 8px 0;"> </div>
+    <div style="padding: 15px 25px; text-align: center;">
+      <h2
+        style="margin: 0 0 18px 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 26px; color: #ffd740; letter-spacing: 3px; text-transform: uppercase;"
+        data-darkreader-inline-color="">🏆 Why This Game Is LEGENDARY 🏆</h2>
+      <table
+        style="width: 100%; border-collapse: separate; border-spacing: 8px;">
+        <tbody>
+          <tr>
+            <td
+              style="background: rgba(196,154,44,0.1); border: 2px solid rgba(196,154,44,0.5); padding: 14px 10px; text-align: center;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left=""><span
+                style="font-size: 36px; margin-bottom: 4px;">👥</span> <span
+                style="font-family: Impact, 'Arial Black', sans-serif; font-size: 16px; color: #ffd740; letter-spacing: 1px;"
+                data-darkreader-inline-color="">4-PLAYER CO-OP</span>
+              <p style="margin: 4px 0 0 0; font-size: 11px; color: #bbb; font-family: Arial, sans-serif;"
+                data-darkreader-inline-color="">Local &amp; online chaos</p>
+            </td>
+            <td
+              style="background: rgba(196,154,44,0.1); border: 2px solid rgba(196,154,44,0.5); padding: 14px 10px; text-align: center;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left=""><span
+                style="font-size: 36px; margin-bottom: 4px;">⚔️</span> <span
+                style="font-family: Impact, 'Arial Black', sans-serif; font-size: 16px; color: #ffd740; letter-spacing: 1px;"
+                data-darkreader-inline-color="">80+ WEAPONS</span>
+              <p style="margin: 4px 0 0 0; font-size: 11px; color: #bbb; font-family: Arial, sans-serif;"
+                data-darkreader-inline-color="">Swords, maces &amp; more</p>
+            </td>
+            <td
+              style="background: rgba(196,154,44,0.1); border: 2px solid rgba(196,154,44,0.5); padding: 14px 10px; text-align: center;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left=""><span
+                style="font-size: 36px; margin-bottom: 4px;">🔮</span> <span
+                style="font-family: Impact, 'Arial Black', sans-serif; font-size: 16px; color: #ffd740; letter-spacing: 1px;"
+                data-darkreader-inline-color="">MAGIC SYSTEM</span>
+              <p style="margin: 4px 0 0 0; font-size: 11px; color: #bbb; font-family: Arial, sans-serif;"
+                data-darkreader-inline-color="">Devastating spells</p>
+            </td>
+            <td
+              style="background: rgba(196,154,44,0.1); border: 2px solid rgba(196,154,44,0.5); padding: 14px 10px; text-align: center;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left=""><span
+                style="font-size: 36px; margin-bottom: 4px;">📈</span> <span
+                style="font-family: Impact, 'Arial Black', sans-serif; font-size: 16px; color: #ffd740; letter-spacing: 1px;"
+                data-darkreader-inline-color="">LEVEL UP</span>
+              <p style="margin: 4px 0 0 0; font-size: 11px; color: #bbb; font-family: Arial, sans-serif;"
+                data-darkreader-inline-color="">RPG progression</p>
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="background: rgba(196,154,44,0.1); border: 2px solid rgba(196,154,44,0.5); padding: 14px 10px; text-align: center;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left=""><span
+                style="font-size: 36px; margin-bottom: 4px;">🐾</span> <span
+                style="font-family: Impact, 'Arial Black', sans-serif; font-size: 16px; color: #ffd740; letter-spacing: 1px;"
+                data-darkreader-inline-color="">ANIMAL ORBS</span>
+              <p style="margin: 4px 0 0 0; font-size: 11px; color: #bbb; font-family: Arial, sans-serif;"
+                data-darkreader-inline-color="">Cute companions</p>
+            </td>
+            <td
+              style="background: rgba(196,154,44,0.1); border: 2px solid rgba(196,154,44,0.5); padding: 14px 10px; text-align: center;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left=""><span
+                style="font-size: 36px; margin-bottom: 4px;">💀</span> <span
+                style="font-family: Impact, 'Arial Black', sans-serif; font-size: 16px; color: #ffd740; letter-spacing: 1px;"
+                data-darkreader-inline-color="">EPIC BOSSES</span>
+              <p style="margin: 4px 0 0 0; font-size: 11px; color: #bbb; font-family: Arial, sans-serif;"
+                data-darkreader-inline-color="">Unforgettable fights</p>
+            </td>
+            <td
+              style="background: rgba(196,154,44,0.1); border: 2px solid rgba(196,154,44,0.5); padding: 14px 10px; text-align: center;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left=""><span
+                style="font-size: 36px; margin-bottom: 4px;">🎨</span> <span
+                style="font-family: Impact, 'Arial Black', sans-serif; font-size: 16px; color: #ffd740; letter-spacing: 1px;"
+                data-darkreader-inline-color="">HAND-DRAWN</span>
+              <p style="margin: 4px 0 0 0; font-size: 11px; color: #bbb; font-family: Arial, sans-serif;"
+                data-darkreader-inline-color="">Gorgeous art style</p>
+            </td>
+            <td
+              style="background: rgba(196,154,44,0.1); border: 2px solid rgba(196,154,44,0.5); padding: 14px 10px; text-align: center;"
+              data-darkreader-inline-bgcolor=""
+              data-darkreader-inline-bgimage=""
+              data-darkreader-inline-border-top=""
+              data-darkreader-inline-border-right=""
+              data-darkreader-inline-border-bottom=""
+              data-darkreader-inline-border-left=""><span
+                style="font-size: 36px; margin-bottom: 4px;">😂</span> <span
+                style="font-family: Impact, 'Arial Black', sans-serif; font-size: 16px; color: #ffd740; letter-spacing: 1px;"
+                data-darkreader-inline-color="">HILARIOUS</span>
+              <p style="margin: 4px 0 0 0; font-size: 11px; color: #bbb; font-family: Arial, sans-serif;"
+                data-darkreader-inline-color="">Peak humor</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
-
-    <!-- CARD -->
-    <div style="padding:1.5rem 1.75rem;">
-
-      <p style="font-size:9px;letter-spacing:0.22em;text-transform:uppercase;color:#333;margin:0 0 0.5rem;">
-        Quick Stats
-      </p>
-
-      <p style="font-size:13px;font-weight:bold;color:#eee;margin:0 0 0.8rem;">
-        Medieval numbers of destruction
-      </p>
-
-      <div>
-
-        <div>
-          <span style="font-size:11px;color:#444;">Players</span>
-          <span style="font-size:13px;font-weight:bold;color:#fff;">
-            1 – 4
-          </span>
-        </div>
-
-        <div>
-          <span style="font-size:11px;color:#444;">Release Year</span>
-          <span style="font-size:13px;font-weight:bold;color:#fff;">
-            2008
-          </span>
-        </div>
-
-        <div>
-          <span style="font-size:11px;color:#444;">Playable Characters</span>
-          <span style="font-size:13px;font-weight:bold;color:#fff;">
-            30+
-          </span>
-        </div>
-
-        <div>
-          <span style="font-size:11px;color:#444;">Friendships Lost</span>
-          <span style="font-size:13px;font-weight:bold;color:#fff;">
-            Countless
-          </span>
-        </div>
-
+    <div style="text-align: center; padding: 8px 0;"> </div>
+    <div
+      style="margin: 15px 25px; padding: 20px; background: rgba(180,30,50,0.2); border: 3px solid #b33040; text-align: center;"
+      data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage=""
+      data-darkreader-inline-border-top=""
+      data-darkreader-inline-border-right=""
+      data-darkreader-inline-border-bottom=""
+      data-darkreader-inline-border-left=""><span
+        style="font-size: 44px; margin-bottom: 6px;">🧙‍♂️💀</span>
+      <p style="margin: 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 22px; color: #ff5566; letter-spacing: 3px; text-transform: uppercase;"
+        data-darkreader-inline-color="">Defeat the Evil Wizard!</p>
+      <p style="margin: 6px 0 0 0; font-size: 13px; color: #ffaaaa; font-family: Arial, sans-serif;"
+        data-darkreader-inline-color="">Rescue the princesses • Save the kingdom
+        • Become a legend</p>
+    </div>
+    <div style="text-align: center; padding: 8px 0;"> </div>
+    <div style="padding: 18px 25px; text-align: center;">
+      <p style="margin: 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 22px; color: #ffd740; letter-spacing: 2px; font-style: italic;"
+        data-darkreader-inline-color="">"One of the greatest co-op experiences
+        ever created."</p>
+      <p style="margin: 4px 0 0 0; font-size: 12px; color: #c49a2c; font-family: Arial, sans-serif; letter-spacing: 1px;"
+        data-darkreader-inline-color="">— Every Gamer Who Has Played It</p>
+      <div style="margin-top: 12px; font-size: 38px; letter-spacing: 4px;">⭐⭐⭐⭐⭐
       </div>
-
+      <p style="margin: 2px 0 0 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 14px; color: #ffd740; letter-spacing: 2px;"
+        data-darkreader-inline-color="">MASTERPIECE</p>
     </div>
-
+    <div
+      style="background: transparent; padding: 8px 0; border-top: 2px solid rgba(196,154,44,0.4); border-bottom: 2px solid rgba(196,154,44,0.4);"
+      data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage=""
+      data-darkreader-inline-border-top=""
+      data-darkreader-inline-border-bottom="">🏆 LEGENDARY  🏆 HALL OF FAME 🏆
+      ICONIC 🏆 PERFECTION 🏆 LEGENDARY 🏆 GOATED 🏆 HALL OF FAME 🏆</div>
+    <div
+      style="text-align: center; padding: 18px 20px; background: rgba(0,0,0,0.3);"
+      data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage="">
+      <p style="margin: 0; font-family: Impact, 'Arial Black', sans-serif; font-size: 16px; color: #c49a2c; letter-spacing: 4px;"
+        data-darkreader-inline-color="">🛡️ THE BEHEMOTH • 2008 • FOREVER 🛡️
+      </p>
+      <p style="margin: 6px 0 0 0; font-size: 11px; color: #887744; font-family: Arial, sans-serif; letter-spacing: 1px;"
+        data-darkreader-inline-color="">Castle Crashers™ © The Behemoth. This is
+        a fan tribute page. PLAY THIS GAME!</p>
+      <p style="margin: 8px 0 0 0; font-size: 26px; letter-spacing: 3px;">
+        👑🏰⚔️🗡️🛡️💀🔥❄️⚡☠️</p>
+      <p style="margin: 6px 0 0 0; font-family: 'Courier New', monospace; font-size: 14px; color: #e8c84a; letter-spacing: 2px;"
+        data-darkreader-inline-color="">#CASTLECRASHERS4EVER</p>
+    </div>
+    <div style="text-align: center; padding: 0 10px 16px 10px;"><span
+        style="font-size: 28px; letter-spacing: 6px; color: #f4c542;"
+        data-darkreader-inline-color="">🏰 ⚔️ 🏰</span></div>
   </div>
-
-  <!-- KNIGHT CLASSES -->
-  <div style="padding:1.5rem 1.75rem;border-bottom:1px solid #1c1c2e;">
-
-    <p style="font-size:9px;letter-spacing:0.22em;text-transform:uppercase;color:#333;margin:0 0 0.9rem;">
-      Starter Knights
-    </p>
-
-    <div>
-
-      <div style="background:#111120;border:1px solid #1c1c2e;padding:5px 12px;font-size:12px;color:#aaa;">
-        Green Knight
-        <span style="font-size:10px;color:#444;margin-left:2px;">
-          Poison Magic
-        </span>
-      </div>
-
-      <div style="background:#111120;border:1px solid #1c1c2e;padding:5px 12px;font-size:12px;color:#aaa;">
-        Red Knight
-        <span style="font-size:10px;color:#444;margin-left:2px;">
-          Lightning Magic
-        </span>
-      </div>
-
-      <div style="background:#111120;border:1px solid #1c1c2e;padding:5px 12px;font-size:12px;color:#aaa;">
-        Blue Knight
-        <span style="font-size:10px;color:#444;margin-left:2px;">
-          Ice Magic
-        </span>
-      </div>
-
-      <div style="background:#111120;border:1px solid #1c1c2e;padding:5px 12px;font-size:12px;color:#aaa;">
-        Orange Knight
-        <span style="font-size:10px;color:#444;margin-left:2px;">
-          Fire Magic
-        </span>
-      </div>
-
-    </div>
-
-  </div>
-
-  <!-- FOOTER -->
-  <div style="padding:1rem 1.75rem;">
-
-    <span style="font-size:10px;color:#333;letter-spacing:0.06em;">
-      Released by The Behemoth · Still absolute chaos
-    </span>
-
-    <a
-      style="font-size:11px;font-weight:bold;letter-spacing:0.1em;color:#ffcc33;border:1px solid;padding:6px 18px;text-decoration:none;"
-      href="https://www.castlecrashers.com/"
-      target="_blank"
-      rel="noreferrer noopener">
-
-      ENTER THE KINGDOM ↗
-
-    </a>
-
-  </div>
-
 </div>
