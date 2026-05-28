@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+# Find staged HTML files (added/copied/modified/renamed)
+staged_html_files=$(git diff --cached --name-only --diff-filter=ACMR | grep '\.html$' || true)
+
+# Exit early if no HTML files are staged
+[ -z "$staged_html_files" ] && exit 0
+
+while IFS= read -r html_file; do
+  # Skip deleted/missing files
+  [ -f "$html_file" ] || continue
+
+  dir=$(dirname "$html_file")
+  readme_path="$dir/README.md"
+
+  # Copy HTML contents into README.md
+  cat "$html_file" > "$readme_path"
+
+  # Stage the generated README.md
+  git add "$readme_path"
+
+  echo "Generated and staged $readme_path from $html_file"
+
+done <<< "$staged_html_files"
